@@ -103,13 +103,18 @@ Then open your browser at: **[http://localhost:8501](http://localhost:8501)**
 
 ---
 
-## 📊 Dashboard Preview
+## 🚀 Live Demo
 
-> Add a screenshot after running the app
+Check out the live, interactive dashboard here:
 
-```md
-![Energy Optimization Dashboard](images/dashboard.png)
-```
+👉 **[View Energy Optimization Dashboard](https://predictive-prescriptive-analytics-4djxxxtil5mmhbqbplwp3q.streamlit.app/)**
+
+This Streamlit app lets you:
+
+* Forecast energy demand for each machine using ML models (LSTM / ARIMA).
+* Optimize production schedules using OR-Tools Linear Programming.
+* Compare **baseline vs optimized energy cost** with visual charts.
+* View machine-level performance, savings, and key metrics in real time.
 
 ---
 
